@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using TodoListAPI.Data;
-using TodoListAPI.Models;
+using ToDoListAPI.MODELS;
 
 namespace TodoListAPI.Controllers
 {
